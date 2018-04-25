@@ -1,0 +1,524 @@
+2018-04-12 10:22:15 INFO  Tc001InvalidLogin:24 - ====Testcase start===
+2018-04-12 10:22:16 INFO  LoginPage:35 - username provided[[FirefoxDriver: firefox on MAC (2a141de0-89d4-604d-b577-cdac4a8cbf70)] -> id: username]
+2018-04-12 10:22:16 INFO  LoginPage:38 - password provided[[FirefoxDriver: firefox on MAC (2a141de0-89d4-604d-b577-cdac4a8cbf70)] -> name: pwd]
+2018-04-12 10:22:16 INFO  LoginPage:40 - click on login btoon[[FirefoxDriver: firefox on MAC (2a141de0-89d4-604d-b577-cdac4a8cbf70)] -> id: loginButton]
+2018-04-12 10:22:18 INFO  LoginPage:44 - Username or Password is invalid. Please try again.
+2018-04-12 10:22:19 INFO  Tc001InvalidLogin:29 - ====Testcase END===
+2018-04-12 12:08:59 INFO  TC0002ValidPassword:24 - ====teststart===
+2018-04-12 12:09:00 INFO  LoginPage:35 - username provided[[FirefoxDriver: firefox on MAC (a4c21e31-aea0-794e-b18e-4a69c4d0a9b5)] -> id: username]
+2018-04-12 12:09:00 INFO  LoginPage:38 - password provided[[FirefoxDriver: firefox on MAC (a4c21e31-aea0-794e-b18e-4a69c4d0a9b5)] -> name: pwd]
+2018-04-12 12:09:00 INFO  LoginPage:40 - click on login btoon[[FirefoxDriver: firefox on MAC (a4c21e31-aea0-794e-b18e-4a69c4d0a9b5)] -> id: loginButton]
+2018-04-12 12:09:00 INFO  TC0002ValidPassword:26 - ====testend===
+2018-04-12 12:59:32 INFO  TC0002ValidPassword:24 - ====teststart===
+2018-04-12 12:59:33 INFO  LoginPage:37 - username provided[[FirefoxDriver: firefox on MAC (7bd699b2-f7cf-3c4d-976f-51396cd962ea)] -> id: username]
+2018-04-12 12:59:33 INFO  LoginPage:40 - password provided[[FirefoxDriver: firefox on MAC (7bd699b2-f7cf-3c4d-976f-51396cd962ea)] -> name: pwd]
+2018-04-12 12:59:33 INFO  LoginPage:42 - click on login btoon[[FirefoxDriver: firefox on MAC (7bd699b2-f7cf-3c4d-976f-51396cd962ea)] -> id: loginButton]
+2018-04-12 12:59:33 INFO  LoginPage:51 - ====after login titile of the page is ===
+2018-04-12 13:20:13 INFO  TC0002ValidPassword:24 - ====teststart===
+2018-04-12 13:20:13 INFO  LoginPage:37 - username provided[[FirefoxDriver: firefox on MAC (34325a76-743b-9341-85a6-45fb2879d433)] -> id: username]
+2018-04-12 13:20:14 INFO  LoginPage:40 - password provided[[FirefoxDriver: firefox on MAC (34325a76-743b-9341-85a6-45fb2879d433)] -> name: pwd]
+2018-04-12 13:20:14 INFO  LoginPage:42 - click on login btoon[[FirefoxDriver: firefox on MAC (34325a76-743b-9341-85a6-45fb2879d433)] -> id: loginButton]
+2018-04-12 13:20:14 INFO  LoginPage:51 - ====after login titile of the page is ===
+2018-04-12 16:10:02 INFO  TC0002ValidPassword:24 - ====teststart===
+2018-04-12 16:10:03 INFO  LoginPage:37 - username provided[[FirefoxDriver: firefox on MAC (7864a9e9-2cd2-e748-aaf9-3496be8c5a54)] -> id: username]
+2018-04-12 16:10:03 INFO  LoginPage:40 - password provided[[FirefoxDriver: firefox on MAC (7864a9e9-2cd2-e748-aaf9-3496be8c5a54)] -> name: pwd]
+2018-04-12 16:10:04 INFO  LoginPage:42 - click on login btoon[[FirefoxDriver: firefox on MAC (7864a9e9-2cd2-e748-aaf9-3496be8c5a54)] -> id: loginButton]
+2018-04-12 16:10:04 INFO  LoginPage:51 - ====after login titile of the page is ===
+2018-04-12 16:12:25 INFO  TC0002ValidPassword:24 - ====teststart===
+2018-04-12 16:12:26 INFO  LoginPage:37 - username provided[[FirefoxDriver: firefox on MAC (38766b3c-f783-6843-a2bf-dbb2105ac509)] -> id: username]
+2018-04-12 16:12:26 INFO  LoginPage:40 - password provided[[FirefoxDriver: firefox on MAC (38766b3c-f783-6843-a2bf-dbb2105ac509)] -> name: pwd]
+2018-04-12 16:12:30 INFO  LoginPage:42 - click on login btoon[[FirefoxDriver: firefox on MAC (38766b3c-f783-6843-a2bf-dbb2105ac509)] -> id: loginButton]
+2018-04-12 16:12:30 INFO  LoginPage:51 - ====after login titile of the page is ===
+2018-04-12 16:13:51 INFO  TC0002ValidPassword:24 - ====teststart===
+2018-04-12 16:13:51 INFO  LoginPage:37 - username provided[[FirefoxDriver: firefox on MAC (2759451a-864c-cf41-8c48-03825c8acdaa)] -> id: username]
+2018-04-12 16:13:52 INFO  LoginPage:40 - password provided[[FirefoxDriver: firefox on MAC (2759451a-864c-cf41-8c48-03825c8acdaa)] -> name: pwd]
+2018-04-12 16:13:52 INFO  LoginPage:42 - click on login btoon[[FirefoxDriver: firefox on MAC (2759451a-864c-cf41-8c48-03825c8acdaa)] -> id: loginButton]
+2018-04-12 16:13:52 INFO  LoginPage:51 - ====after login titile of the page is ===
+2018-04-12 16:19:48 INFO  TC0002ValidPassword:24 - ====teststart===
+2018-04-12 16:19:48 INFO  LoginPage:37 - username provided[[FirefoxDriver: firefox on MAC (60d62215-919b-6f4a-b185-336859b5c4b3)] -> id: username]
+2018-04-12 16:19:49 INFO  LoginPage:40 - password provided[[FirefoxDriver: firefox on MAC (60d62215-919b-6f4a-b185-336859b5c4b3)] -> name: pwd]
+2018-04-12 16:19:50 INFO  LoginPage:42 - click on login btoon[[FirefoxDriver: firefox on MAC (60d62215-919b-6f4a-b185-336859b5c4b3)] -> id: loginButton]
+2018-04-12 16:19:50 INFO  LoginPage:51 - ====after login titile of the page is ===
+2018-04-12 16:19:53 INFO  TC0002ValidPassword:27 - ====testend===
+2018-04-12 16:21:18 INFO  TC0002ValidPassword:24 - ====teststart===
+2018-04-12 16:21:18 INFO  LoginPage:37 - username provided[[FirefoxDriver: firefox on MAC (90c94ace-4a56-6249-9e14-80cf774fbf28)] -> id: username]
+2018-04-12 16:21:19 INFO  LoginPage:40 - password provided[[FirefoxDriver: firefox on MAC (90c94ace-4a56-6249-9e14-80cf774fbf28)] -> name: pwd]
+2018-04-12 16:22:24 INFO  LoginPage:42 - click on login btoonProxy element for: DefaultElementLocator 'By.id: loginButton'
+2018-04-12 16:22:24 INFO  LoginPage:51 - ====after login titile of the page is ===
+2018-04-12 16:22:24 INFO  TC0002ValidPassword:27 - ====testend===
+2018-04-13 13:32:22 INFO  TC0002ValidPassword:24 - ====teststart===
+2018-04-13 13:32:22 INFO  LoginPage:37 - username provided[[FirefoxDriver: firefox on MAC (f3ffc393-3d0d-7d48-b637-361baf0b9b96)] -> id: username]
+2018-04-13 13:32:22 INFO  LoginPage:40 - password provided[[FirefoxDriver: firefox on MAC (f3ffc393-3d0d-7d48-b637-361baf0b9b96)] -> name: pwd]
+2018-04-13 13:32:23 INFO  LoginPage:42 - click on login btoon[[FirefoxDriver: firefox on MAC (f3ffc393-3d0d-7d48-b637-361baf0b9b96)] -> id: loginButton]
+2018-04-13 13:32:23 INFO  LoginPage:51 - ====after login titile of the page is ===
+2018-04-13 13:35:25 INFO  TC0002ValidPassword:24 - ====teststart===
+2018-04-13 13:35:25 INFO  LoginPage:37 - username provided[[FirefoxDriver: firefox on MAC (491867c8-4215-c547-bfb7-cd7b22430be5)] -> id: username]
+2018-04-13 13:35:25 INFO  LoginPage:40 - password provided[[FirefoxDriver: firefox on MAC (491867c8-4215-c547-bfb7-cd7b22430be5)] -> name: pwd]
+2018-04-13 13:35:26 INFO  LoginPage:42 - click on login btoon[[FirefoxDriver: firefox on MAC (491867c8-4215-c547-bfb7-cd7b22430be5)] -> id: loginButton]
+2018-04-13 13:35:26 INFO  LoginPage:51 - ====after login titile of the page is ===
+2018-04-13 13:35:26 INFO  TC0002ValidPassword:27 - ====testend===
+2018-04-13 13:58:41 INFO  TC0002ValidPassword:25 - ====teststart===
+2018-04-13 13:58:42 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (47084468-03c1-9741-8d5a-aa748bcb4bd1)] -> id: username]
+2018-04-13 13:58:42 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (47084468-03c1-9741-8d5a-aa748bcb4bd1)] -> name: pwd]
+2018-04-13 13:58:42 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (47084468-03c1-9741-8d5a-aa748bcb4bd1)] -> id: loginButton]
+2018-04-13 13:58:42 INFO  LoginPage:55 - ====after login titile of the page is ===
+2018-04-13 13:58:45 INFO  TC0002ValidPassword:29 - ====testend===
+2018-04-13 14:02:09 INFO  TC0002ValidPassword:25 - ====teststart===
+2018-04-13 14:02:10 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (2dfea02a-36cd-e94b-a82c-c74e6a601619)] -> id: username]
+2018-04-13 14:02:10 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (2dfea02a-36cd-e94b-a82c-c74e6a601619)] -> name: pwd]
+2018-04-13 14:03:13 INFO  LoginPage:46 - click on login btoonProxy element for: DefaultElementLocator 'By.id: loginButton'
+2018-04-13 14:03:13 INFO  LoginPage:55 - ====after login titile of the page is ===
+2018-04-13 16:37:29 INFO  Tc001InvalidLogin:23 - ====Testcase start===
+2018-04-13 16:37:29 INFO  LoginPage:41 - username provided[[ChromeDriver: chrome on MAC (1a3094edc3f8b1738c9ac25e397f80c3)] -> id: username]
+2018-04-13 16:37:30 INFO  LoginPage:44 - password provided[[ChromeDriver: chrome on MAC (1a3094edc3f8b1738c9ac25e397f80c3)] -> name: pwd]
+2018-04-13 16:37:30 INFO  LoginPage:46 - click on login btoon[[ChromeDriver: chrome on MAC (1a3094edc3f8b1738c9ac25e397f80c3)] -> id: loginButton]
+2018-04-13 16:37:31 INFO  LoginPage:50 - Username or Password is invalid. Please try again.
+2018-04-13 16:37:31 INFO  Tc001InvalidLogin:28 - ====Testcase END===
+2018-04-13 16:43:46 INFO  Tc001InvalidLogin:23 - ====Testcase start===
+2018-04-13 16:43:47 INFO  LoginPage:41 - username provided[[ChromeDriver: chrome on MAC (18c1b974967c578ba17a385255bc6d62)] -> id: username]
+2018-04-13 16:43:47 INFO  LoginPage:44 - password provided[[ChromeDriver: chrome on MAC (18c1b974967c578ba17a385255bc6d62)] -> name: pwd]
+2018-04-13 16:43:47 INFO  LoginPage:46 - click on login btoon[[ChromeDriver: chrome on MAC (18c1b974967c578ba17a385255bc6d62)] -> id: loginButton]
+2018-04-13 16:43:49 INFO  LoginPage:50 - Username or Password is invalid. Please try again.
+2018-04-13 16:43:49 INFO  Tc001InvalidLogin:28 - ====Testcase END===
+2018-04-13 16:47:23 INFO  Tc001InvalidLogin:23 - ====Testcase start===
+2018-04-13 16:47:23 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (d11ba88c-3a57-c440-94d5-627aa1914c23)] -> id: username]
+2018-04-13 16:47:24 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (d11ba88c-3a57-c440-94d5-627aa1914c23)] -> name: pwd]
+2018-04-13 16:47:24 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (d11ba88c-3a57-c440-94d5-627aa1914c23)] -> id: loginButton]
+2018-04-13 16:47:26 INFO  LoginPage:50 - Username or Password is invalid. Please try again.
+2018-04-13 16:47:26 INFO  Tc001InvalidLogin:28 - ====Testcase END===
+2018-04-13 17:07:01 INFO  Tc001InvalidLogin:23 - ====Testcase start===
+2018-04-13 17:07:02 INFO  LoginPage:41 - username provided[[ChromeDriver: chrome on MAC (b74e0c1233fa49a2155a57a5b89e5799)] -> id: username]
+2018-04-13 17:07:02 INFO  LoginPage:44 - password provided[[ChromeDriver: chrome on MAC (b74e0c1233fa49a2155a57a5b89e5799)] -> name: pwd]
+2018-04-13 17:07:02 INFO  LoginPage:46 - click on login btoon[[ChromeDriver: chrome on MAC (b74e0c1233fa49a2155a57a5b89e5799)] -> id: loginButton]
+2018-04-13 17:07:06 INFO  LoginPage:50 - Username or Password is invalid. Please try again.
+2018-04-13 17:07:06 INFO  Tc001InvalidLogin:28 - ====Testcase END===
+2018-04-13 17:10:26 INFO  Tc001InvalidLogin:23 - ====Testcase start===
+2018-04-13 17:10:26 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (7fc56f04-13fd-9a44-9cfe-51f2a7bb47e1)] -> id: username]
+2018-04-13 17:10:27 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (7fc56f04-13fd-9a44-9cfe-51f2a7bb47e1)] -> name: pwd]
+2018-04-13 17:10:27 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (7fc56f04-13fd-9a44-9cfe-51f2a7bb47e1)] -> id: loginButton]
+2018-04-13 17:10:29 INFO  LoginPage:50 - Username or Password is invalid. Please try again.
+2018-04-13 17:10:29 INFO  Tc001InvalidLogin:28 - ====Testcase END===
+2018-04-14 22:30:03 INFO  TC0003Multiplecredentials:25 - -----multiple user log
+2018-04-14 22:30:04 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (e7541885-6e30-5f4c-ad27-bffe35349b87)] -> id: username]
+2018-04-14 22:30:04 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (e7541885-6e30-5f4c-ad27-bffe35349b87)] -> name: pwd]
+2018-04-14 22:31:08 INFO  LoginPage:46 - click on login btoonProxy element for: DefaultElementLocator 'By.id: loginButton'
+2018-04-14 22:31:08 INFO  TC0003Multiplecredentials:28 - -----multiple end user log
+2018-04-14 22:35:00 INFO  TC0003Multiplecredentials:25 - -----multiple user log
+2018-04-14 22:35:00 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (c30439f5-31ef-4e48-acc9-481680aaca37)] -> id: username]
+2018-04-14 22:35:01 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (c30439f5-31ef-4e48-acc9-481680aaca37)] -> name: pwd]
+2018-04-14 22:35:01 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (c30439f5-31ef-4e48-acc9-481680aaca37)] -> id: loginButton]
+2018-04-14 22:35:01 INFO  TC0003Multiplecredentials:28 - -----multiple end user log
+2018-04-14 22:37:22 INFO  TC0003Multiplecredentials:25 - -----multiple user log
+2018-04-14 22:37:23 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (dee9f593-035e-264e-a5e2-fea3aaacc139)] -> id: username]
+2018-04-14 22:37:23 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (dee9f593-035e-264e-a5e2-fea3aaacc139)] -> name: pwd]
+2018-04-14 22:37:23 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (dee9f593-035e-264e-a5e2-fea3aaacc139)] -> id: loginButton]
+2018-04-14 22:37:23 INFO  TC0003Multiplecredentials:28 - -----multiple end user log
+2018-04-14 22:56:30 INFO  TC0003Multiplecredentials:25 - -----multiple user log
+2018-04-14 23:02:21 INFO  TC0003Multiplecredentials:25 - -----multiple user log
+2018-04-14 23:07:41 INFO  TC0003Multiplecredentials:25 - -----multiple user log
+2018-04-14 23:07:43 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-14 23:07:43 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (65bae466-242c-554f-9165-e6198d8f8243)] -> id: username]
+2018-04-14 23:07:43 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (65bae466-242c-554f-9165-e6198d8f8243)] -> name: pwd]
+2018-04-14 23:07:44 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (65bae466-242c-554f-9165-e6198d8f8243)] -> id: loginButton]
+2018-04-14 23:07:44 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-14 23:07:44 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-14 23:08:46 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-14 23:08:46 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (65bae466-242c-554f-9165-e6198d8f8243)] -> id: username]
+2018-04-14 23:08:47 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (65bae466-242c-554f-9165-e6198d8f8243)] -> name: pwd]
+2018-04-14 23:08:47 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (65bae466-242c-554f-9165-e6198d8f8243)] -> id: loginButton]
+2018-04-14 23:08:47 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-14 23:08:47 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-14 23:08:47 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (65bae466-242c-554f-9165-e6198d8f8243)] -> id: username]
+2018-04-14 23:08:47 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (65bae466-242c-554f-9165-e6198d8f8243)] -> name: pwd]
+2018-04-14 23:08:48 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (65bae466-242c-554f-9165-e6198d8f8243)] -> id: loginButton]
+2018-04-14 23:08:48 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:31:05 INFO  TC0003Multiplecredentials:25 - -----multiple user log
+2018-04-15 09:31:07 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:31:07 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (30295553-145e-b343-aa91-237a13d664a5)] -> id: username]
+2018-04-15 09:31:08 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (30295553-145e-b343-aa91-237a13d664a5)] -> name: pwd]
+2018-04-15 09:31:10 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (30295553-145e-b343-aa91-237a13d664a5)] -> id: loginButton]
+2018-04-15 09:31:10 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:31:10 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:31:10 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (30295553-145e-b343-aa91-237a13d664a5)] -> id: username]
+2018-04-15 09:31:10 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (30295553-145e-b343-aa91-237a13d664a5)] -> name: pwd]
+2018-04-15 09:31:10 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (30295553-145e-b343-aa91-237a13d664a5)] -> id: loginButton]
+2018-04-15 09:31:10 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:31:10 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:32:12 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:32:12 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (30295553-145e-b343-aa91-237a13d664a5)] -> id: username]
+2018-04-15 09:32:12 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (30295553-145e-b343-aa91-237a13d664a5)] -> name: pwd]
+2018-04-15 09:32:12 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (30295553-145e-b343-aa91-237a13d664a5)] -> id: loginButton]
+2018-04-15 09:32:12 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:36:41 INFO  TC0003Multiplecredentials:25 - -----multiple user log
+2018-04-15 09:36:42 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:36:43 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (e3904317-e4bb-974e-8610-04c61cfaaf03)] -> id: username]
+2018-04-15 09:36:43 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (e3904317-e4bb-974e-8610-04c61cfaaf03)] -> name: pwd]
+2018-04-15 09:36:43 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (e3904317-e4bb-974e-8610-04c61cfaaf03)] -> id: loginButton]
+2018-04-15 09:36:43 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:36:43 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:37:47 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:37:49 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (e3904317-e4bb-974e-8610-04c61cfaaf03)] -> id: username]
+2018-04-15 09:37:49 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (e3904317-e4bb-974e-8610-04c61cfaaf03)] -> name: pwd]
+2018-04-15 09:37:50 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (e3904317-e4bb-974e-8610-04c61cfaaf03)] -> id: loginButton]
+2018-04-15 09:37:50 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:37:50 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:37:50 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (e3904317-e4bb-974e-8610-04c61cfaaf03)] -> id: username]
+2018-04-15 09:37:50 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (e3904317-e4bb-974e-8610-04c61cfaaf03)] -> name: pwd]
+2018-04-15 09:37:52 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (e3904317-e4bb-974e-8610-04c61cfaaf03)] -> id: loginButton]
+2018-04-15 09:37:52 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:45:22 INFO  TC0003Multiplecredentials:25 - -----multiple user log
+2018-04-15 09:45:24 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:45:24 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (dac36158-76df-4f42-a4fa-688948669bdd)] -> id: username]
+2018-04-15 09:45:25 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (dac36158-76df-4f42-a4fa-688948669bdd)] -> name: pwd]
+2018-04-15 09:45:25 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (dac36158-76df-4f42-a4fa-688948669bdd)] -> id: loginButton]
+2018-04-15 09:45:25 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:45:25 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:45:27 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (dac36158-76df-4f42-a4fa-688948669bdd)] -> id: username]
+2018-04-15 09:45:27 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (dac36158-76df-4f42-a4fa-688948669bdd)] -> name: pwd]
+2018-04-15 09:45:27 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (dac36158-76df-4f42-a4fa-688948669bdd)] -> id: loginButton]
+2018-04-15 09:45:27 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:45:27 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:45:27 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (dac36158-76df-4f42-a4fa-688948669bdd)] -> id: username]
+2018-04-15 09:45:29 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (dac36158-76df-4f42-a4fa-688948669bdd)] -> name: pwd]
+2018-04-15 09:45:29 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (dac36158-76df-4f42-a4fa-688948669bdd)] -> id: loginButton]
+2018-04-15 09:45:29 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:45:29 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:45:31 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (dac36158-76df-4f42-a4fa-688948669bdd)] -> id: username]
+2018-04-15 09:45:31 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (dac36158-76df-4f42-a4fa-688948669bdd)] -> name: pwd]
+2018-04-15 09:45:31 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (dac36158-76df-4f42-a4fa-688948669bdd)] -> id: loginButton]
+2018-04-15 09:45:31 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:52:39 INFO  TC0003Multiplecredentials:25 - -----multiple user log
+2018-04-15 09:52:40 INFO  TC0003Multiplecredentials:25 - -----multiple user log
+2018-04-15 09:52:45 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:52:45 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:52:46 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (0274510e-27a7-0645-bf81-1e4fb6aaedf6)] -> id: username]
+2018-04-15 09:52:46 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (c6b6a436-610f-ef40-8fc4-308a9c2ab387)] -> id: username]
+2018-04-15 09:52:46 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (0274510e-27a7-0645-bf81-1e4fb6aaedf6)] -> name: pwd]
+2018-04-15 09:52:47 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (c6b6a436-610f-ef40-8fc4-308a9c2ab387)] -> name: pwd]
+2018-04-15 09:52:52 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (0274510e-27a7-0645-bf81-1e4fb6aaedf6)] -> id: loginButton]
+2018-04-15 09:52:52 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:52:52 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:52:52 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (c6b6a436-610f-ef40-8fc4-308a9c2ab387)] -> id: loginButton]
+2018-04-15 09:52:52 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:52:53 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:52:53 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (0274510e-27a7-0645-bf81-1e4fb6aaedf6)] -> id: username]
+2018-04-15 09:52:53 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (c6b6a436-610f-ef40-8fc4-308a9c2ab387)] -> id: username]
+2018-04-15 09:52:53 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (0274510e-27a7-0645-bf81-1e4fb6aaedf6)] -> name: pwd]
+2018-04-15 09:52:53 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (c6b6a436-610f-ef40-8fc4-308a9c2ab387)] -> name: pwd]
+2018-04-15 09:52:58 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (0274510e-27a7-0645-bf81-1e4fb6aaedf6)] -> id: loginButton]
+2018-04-15 09:52:58 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:52:58 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:52:58 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (c6b6a436-610f-ef40-8fc4-308a9c2ab387)] -> id: loginButton]
+2018-04-15 09:52:58 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:52:58 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:52:59 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (0274510e-27a7-0645-bf81-1e4fb6aaedf6)] -> id: username]
+2018-04-15 09:52:59 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (c6b6a436-610f-ef40-8fc4-308a9c2ab387)] -> id: username]
+2018-04-15 09:52:59 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (0274510e-27a7-0645-bf81-1e4fb6aaedf6)] -> name: pwd]
+2018-04-15 09:53:00 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (c6b6a436-610f-ef40-8fc4-308a9c2ab387)] -> name: pwd]
+2018-04-15 09:53:00 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (0274510e-27a7-0645-bf81-1e4fb6aaedf6)] -> id: loginButton]
+2018-04-15 09:53:00 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:53:00 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:53:00 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (c6b6a436-610f-ef40-8fc4-308a9c2ab387)] -> id: loginButton]
+2018-04-15 09:53:00 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 09:53:01 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 09:53:04 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (c6b6a436-610f-ef40-8fc4-308a9c2ab387)] -> id: username]
+2018-04-15 09:53:05 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (c6b6a436-610f-ef40-8fc4-308a9c2ab387)] -> name: pwd]
+2018-04-15 09:53:10 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (c6b6a436-610f-ef40-8fc4-308a9c2ab387)] -> id: loginButton]
+2018-04-15 09:53:10 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 10:00:23 INFO  TC0003Multiplecredentials:25 - -----multiple user log
+2018-04-15 10:00:28 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 10:00:30 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (5e60dafc-851c-1244-99b7-b789ba1e006a)] -> id: username]
+2018-04-15 10:00:30 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (5e60dafc-851c-1244-99b7-b789ba1e006a)] -> name: pwd]
+2018-04-15 10:00:31 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (5e60dafc-851c-1244-99b7-b789ba1e006a)] -> id: loginButton]
+2018-04-15 10:00:31 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 10:00:31 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 10:00:36 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (5e60dafc-851c-1244-99b7-b789ba1e006a)] -> id: username]
+2018-04-15 10:00:37 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (5e60dafc-851c-1244-99b7-b789ba1e006a)] -> name: pwd]
+2018-04-15 10:00:37 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (5e60dafc-851c-1244-99b7-b789ba1e006a)] -> id: loginButton]
+2018-04-15 10:00:37 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 10:00:37 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 10:01:41 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 10:02:01 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (5e60dafc-851c-1244-99b7-b789ba1e006a)] -> id: username]
+2018-04-15 10:02:01 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (5e60dafc-851c-1244-99b7-b789ba1e006a)] -> name: pwd]
+2018-04-15 10:02:01 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (5e60dafc-851c-1244-99b7-b789ba1e006a)] -> id: loginButton]
+2018-04-15 10:02:01 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 10:08:38 INFO  TC0003Multiplecredentials:25 - -----multiple user log
+2018-04-15 10:08:39 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 10:08:40 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (6ba776e8-9cb4-f344-975d-5e1b08445677)] -> id: username]
+2018-04-15 10:08:40 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (6ba776e8-9cb4-f344-975d-5e1b08445677)] -> name: pwd]
+2018-04-15 10:08:43 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (6ba776e8-9cb4-f344-975d-5e1b08445677)] -> id: loginButton]
+2018-04-15 10:08:43 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 10:08:43 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 10:08:43 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (6ba776e8-9cb4-f344-975d-5e1b08445677)] -> id: username]
+2018-04-15 10:08:43 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (6ba776e8-9cb4-f344-975d-5e1b08445677)] -> name: pwd]
+2018-04-15 10:08:43 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (6ba776e8-9cb4-f344-975d-5e1b08445677)] -> id: loginButton]
+2018-04-15 10:08:43 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 10:08:43 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 10:09:48 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 10:10:09 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (6ba776e8-9cb4-f344-975d-5e1b08445677)] -> id: username]
+2018-04-15 10:10:19 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (6ba776e8-9cb4-f344-975d-5e1b08445677)] -> name: pwd]
+2018-04-15 10:10:19 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (6ba776e8-9cb4-f344-975d-5e1b08445677)] -> id: loginButton]
+2018-04-15 10:10:19 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 10:23:14 INFO  TC0003Multiplecredentials:25 - -----multiple user log
+2018-04-15 10:23:16 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 10:23:17 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (e14aa235-53eb-e549-b7a1-706056e1ef9e)] -> id: username]
+2018-04-15 10:23:17 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (e14aa235-53eb-e549-b7a1-706056e1ef9e)] -> name: pwd]
+2018-04-15 10:23:17 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (e14aa235-53eb-e549-b7a1-706056e1ef9e)] -> id: loginButton]
+2018-04-15 10:23:17 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 10:23:17 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 10:23:19 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (e14aa235-53eb-e549-b7a1-706056e1ef9e)] -> id: username]
+2018-04-15 10:23:19 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (e14aa235-53eb-e549-b7a1-706056e1ef9e)] -> name: pwd]
+2018-04-15 10:23:20 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (e14aa235-53eb-e549-b7a1-706056e1ef9e)] -> id: loginButton]
+2018-04-15 10:23:20 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 10:23:20 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 10:23:21 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (e14aa235-53eb-e549-b7a1-706056e1ef9e)] -> id: username]
+2018-04-15 10:23:21 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (e14aa235-53eb-e549-b7a1-706056e1ef9e)] -> name: pwd]
+2018-04-15 10:23:21 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (e14aa235-53eb-e549-b7a1-706056e1ef9e)] -> id: loginButton]
+2018-04-15 10:23:21 INFO  TC0003Multiplecredentials:37 - -----multiple end user log
+2018-04-15 10:23:21 INFO  TC0003Multiplecredentials:34 - -----multiple user log
+2018-04-15 10:34:00 INFO  TC0003Multiplecredentials:26 - -----multiple user log
+2018-04-15 10:34:02 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 10:34:02 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (ac6a2fb7-694a-f94f-8818-24c372617663)] -> id: username]
+2018-04-15 10:34:02 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (ac6a2fb7-694a-f94f-8818-24c372617663)] -> name: pwd]
+2018-04-15 10:34:03 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (ac6a2fb7-694a-f94f-8818-24c372617663)] -> id: loginButton]
+2018-04-15 10:34:05 INFO  LoginPage:50 - Username or Password is invalid. Please try again.
+2018-04-15 10:34:05 INFO  TC0003Multiplecredentials:41 - -----multiple end user log
+2018-04-15 10:34:05 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 10:34:05 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (ac6a2fb7-694a-f94f-8818-24c372617663)] -> id: username]
+2018-04-15 10:34:05 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (ac6a2fb7-694a-f94f-8818-24c372617663)] -> name: pwd]
+2018-04-15 10:34:06 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (ac6a2fb7-694a-f94f-8818-24c372617663)] -> id: loginButton]
+2018-04-15 10:35:09 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 10:36:18 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:00:24 INFO  TC0003Multiplecredentials:26 - -----multiple user log
+2018-04-15 15:00:29 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:00:30 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (5c73364f-11b6-a547-9b40-6bddf9312a44)] -> id: username]
+2018-04-15 15:00:30 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (5c73364f-11b6-a547-9b40-6bddf9312a44)] -> name: pwd]
+2018-04-15 15:00:31 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (5c73364f-11b6-a547-9b40-6bddf9312a44)] -> id: loginButton]
+2018-04-15 15:00:31 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:02:32 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:02:33 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (5c73364f-11b6-a547-9b40-6bddf9312a44)] -> id: username]
+2018-04-15 15:02:33 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (5c73364f-11b6-a547-9b40-6bddf9312a44)] -> name: pwd]
+2018-04-15 15:02:33 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (5c73364f-11b6-a547-9b40-6bddf9312a44)] -> id: loginButton]
+2018-04-15 15:02:33 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:02:36 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (5c73364f-11b6-a547-9b40-6bddf9312a44)] -> id: logoutLink]
+2018-04-15 15:02:36 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:03:36 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:09:29 INFO  TC0003Multiplecredentials:26 - -----multiple user log
+2018-04-15 15:09:31 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:09:32 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (4eed4b78-9696-6749-b13a-301f3e9e294d)] -> id: username]
+2018-04-15 15:09:32 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (4eed4b78-9696-6749-b13a-301f3e9e294d)] -> name: pwd]
+2018-04-15 15:09:32 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (4eed4b78-9696-6749-b13a-301f3e9e294d)] -> id: loginButton]
+2018-04-15 15:09:32 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:09:56 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:09:56 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (4eed4b78-9696-6749-b13a-301f3e9e294d)] -> id: username]
+2018-04-15 15:09:56 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (4eed4b78-9696-6749-b13a-301f3e9e294d)] -> name: pwd]
+2018-04-15 15:09:57 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (4eed4b78-9696-6749-b13a-301f3e9e294d)] -> id: loginButton]
+2018-04-15 15:09:57 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:09:58 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (4eed4b78-9696-6749-b13a-301f3e9e294d)] -> class name: logout]
+2018-04-15 15:09:59 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:10:09 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:13:04 INFO  TC0003Multiplecredentials:26 - -----multiple user log
+2018-04-15 15:13:06 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:13:07 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (82baee82-41cf-cb44-b944-0ea20fc4b683)] -> id: username]
+2018-04-15 15:13:07 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (82baee82-41cf-cb44-b944-0ea20fc4b683)] -> name: pwd]
+2018-04-15 15:13:11 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (82baee82-41cf-cb44-b944-0ea20fc4b683)] -> id: loginButton]
+2018-04-15 15:13:11 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:13:34 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:13:35 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (82baee82-41cf-cb44-b944-0ea20fc4b683)] -> id: username]
+2018-04-15 15:13:35 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (82baee82-41cf-cb44-b944-0ea20fc4b683)] -> name: pwd]
+2018-04-15 15:13:35 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (82baee82-41cf-cb44-b944-0ea20fc4b683)] -> id: loginButton]
+2018-04-15 15:13:35 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:13:37 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (82baee82-41cf-cb44-b944-0ea20fc4b683)] -> class name: logout]
+2018-04-15 15:13:51 INFO  LoginPage:77 - logout from the applicationProxy element for: DefaultElementLocator 'By.className: logout'
+2018-04-15 15:13:51 INFO  TC0003Multiplecredentials:49 - -----multiple end user log
+2018-04-15 15:13:51 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:13:52 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (82baee82-41cf-cb44-b944-0ea20fc4b683)] -> id: username]
+2018-04-15 15:13:52 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (82baee82-41cf-cb44-b944-0ea20fc4b683)] -> name: pwd]
+2018-04-15 15:13:52 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (82baee82-41cf-cb44-b944-0ea20fc4b683)] -> id: loginButton]
+2018-04-15 15:13:52 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:13:57 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (82baee82-41cf-cb44-b944-0ea20fc4b683)] -> class name: logout]
+2018-04-15 15:14:05 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:14:16 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (82baee82-41cf-cb44-b944-0ea20fc4b683)] -> id: username]
+2018-04-15 15:14:16 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (82baee82-41cf-cb44-b944-0ea20fc4b683)] -> name: pwd]
+2018-04-15 15:14:19 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (82baee82-41cf-cb44-b944-0ea20fc4b683)] -> id: loginButton]
+2018-04-15 15:14:19 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:25:25 INFO  TC0003Multiplecredentials:26 - -----multiple user log
+2018-04-15 15:25:27 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:25:27 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (c6cc9f87-e69c-394f-b2ce-4e6d69d7e449)] -> id: username]
+2018-04-15 15:25:28 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (c6cc9f87-e69c-394f-b2ce-4e6d69d7e449)] -> name: pwd]
+2018-04-15 15:25:28 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (c6cc9f87-e69c-394f-b2ce-4e6d69d7e449)] -> id: loginButton]
+2018-04-15 15:25:28 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:25:49 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:25:50 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (c6cc9f87-e69c-394f-b2ce-4e6d69d7e449)] -> id: username]
+2018-04-15 15:25:50 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (c6cc9f87-e69c-394f-b2ce-4e6d69d7e449)] -> name: pwd]
+2018-04-15 15:25:50 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (c6cc9f87-e69c-394f-b2ce-4e6d69d7e449)] -> id: loginButton]
+2018-04-15 15:25:50 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:25:53 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (c6cc9f87-e69c-394f-b2ce-4e6d69d7e449)] -> class name: logout]
+2018-04-15 15:26:09 INFO  LoginPage:77 - logout from the applicationProxy element for: DefaultElementLocator 'By.className: logout'
+2018-04-15 15:26:09 INFO  TC0003Multiplecredentials:49 - -----multiple end user log
+2018-04-15 15:26:09 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:26:09 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (c6cc9f87-e69c-394f-b2ce-4e6d69d7e449)] -> id: username]
+2018-04-15 15:26:09 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (c6cc9f87-e69c-394f-b2ce-4e6d69d7e449)] -> name: pwd]
+2018-04-15 15:26:10 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (c6cc9f87-e69c-394f-b2ce-4e6d69d7e449)] -> id: loginButton]
+2018-04-15 15:26:10 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:26:11 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (c6cc9f87-e69c-394f-b2ce-4e6d69d7e449)] -> class name: logout]
+2018-04-15 15:26:25 INFO  LoginPage:77 - logout from the applicationProxy element for: DefaultElementLocator 'By.className: logout'
+2018-04-15 15:26:25 INFO  TC0003Multiplecredentials:49 - -----multiple end user log
+2018-04-15 15:26:25 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:26:26 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (c6cc9f87-e69c-394f-b2ce-4e6d69d7e449)] -> id: username]
+2018-04-15 15:26:26 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (c6cc9f87-e69c-394f-b2ce-4e6d69d7e449)] -> name: pwd]
+2018-04-15 15:26:27 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (c6cc9f87-e69c-394f-b2ce-4e6d69d7e449)] -> id: loginButton]
+2018-04-15 15:26:27 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:27:26 INFO  TC0003Multiplecredentials:26 - -----multiple user log
+2018-04-15 15:27:29 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:27:30 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (169a1ad6-e91c-4849-8474-930ff9e4f261)] -> id: username]
+2018-04-15 15:27:30 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (169a1ad6-e91c-4849-8474-930ff9e4f261)] -> name: pwd]
+2018-04-15 15:27:31 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (169a1ad6-e91c-4849-8474-930ff9e4f261)] -> id: loginButton]
+2018-04-15 15:27:31 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:27:52 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:27:52 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (169a1ad6-e91c-4849-8474-930ff9e4f261)] -> id: username]
+2018-04-15 15:27:52 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (169a1ad6-e91c-4849-8474-930ff9e4f261)] -> name: pwd]
+2018-04-15 15:27:53 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (169a1ad6-e91c-4849-8474-930ff9e4f261)] -> id: loginButton]
+2018-04-15 15:27:53 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:28:15 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:28:16 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (169a1ad6-e91c-4849-8474-930ff9e4f261)] -> id: username]
+2018-04-15 15:28:16 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (169a1ad6-e91c-4849-8474-930ff9e4f261)] -> name: pwd]
+2018-04-15 15:28:16 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (169a1ad6-e91c-4849-8474-930ff9e4f261)] -> id: loginButton]
+2018-04-15 15:28:16 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:28:39 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:28:39 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (169a1ad6-e91c-4849-8474-930ff9e4f261)] -> id: username]
+2018-04-15 15:28:39 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (169a1ad6-e91c-4849-8474-930ff9e4f261)] -> name: pwd]
+2018-04-15 15:28:39 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (169a1ad6-e91c-4849-8474-930ff9e4f261)] -> id: loginButton]
+2018-04-15 15:28:39 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:32:24 INFO  TC0003Multiplecredentials:26 - -----multiple user log
+2018-04-15 15:32:25 INFO  TC0003Multiplecredentials:26 - -----multiple user log
+2018-04-15 15:32:28 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:32:29 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:32:30 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (130b323f-6dbd-334e-947a-b91e261bf423)] -> id: username]
+2018-04-15 15:32:31 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (a0d1abff-88ad-6d4b-a546-e7d199071186)] -> id: username]
+2018-04-15 15:32:33 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (130b323f-6dbd-334e-947a-b91e261bf423)] -> name: pwd]
+2018-04-15 15:32:33 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (a0d1abff-88ad-6d4b-a546-e7d199071186)] -> name: pwd]
+2018-04-15 15:32:33 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (130b323f-6dbd-334e-947a-b91e261bf423)] -> id: loginButton]
+2018-04-15 15:32:33 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:32:34 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (a0d1abff-88ad-6d4b-a546-e7d199071186)] -> id: loginButton]
+2018-04-15 15:32:34 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:32:58 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:32:58 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (130b323f-6dbd-334e-947a-b91e261bf423)] -> id: username]
+2018-04-15 15:32:59 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (130b323f-6dbd-334e-947a-b91e261bf423)] -> name: pwd]
+2018-04-15 15:33:01 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:33:03 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (a0d1abff-88ad-6d4b-a546-e7d199071186)] -> id: username]
+2018-04-15 15:33:03 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (a0d1abff-88ad-6d4b-a546-e7d199071186)] -> name: pwd]
+2018-04-15 15:33:05 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (a0d1abff-88ad-6d4b-a546-e7d199071186)] -> id: loginButton]
+2018-04-15 15:33:05 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:33:11 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (a0d1abff-88ad-6d4b-a546-e7d199071186)] -> class name: logout]
+2018-04-15 15:33:19 INFO  LoginPage:46 - click on login btoonProxy element for: DefaultElementLocator 'By.id: loginButton'
+2018-04-15 15:33:19 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:33:19 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (130b323f-6dbd-334e-947a-b91e261bf423)] -> class name: logout]
+2018-04-15 15:33:33 INFO  LoginPage:77 - logout from the applicationProxy element for: DefaultElementLocator 'By.className: logout'
+2018-04-15 15:33:34 INFO  TC0003Multiplecredentials:49 - -----multiple end user log
+2018-04-15 15:33:34 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:33:36 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (a0d1abff-88ad-6d4b-a546-e7d199071186)] -> id: username]
+2018-04-15 15:33:38 INFO  LoginPage:77 - logout from the applicationProxy element for: DefaultElementLocator 'By.className: logout'
+2018-04-15 15:33:38 INFO  TC0003Multiplecredentials:49 - -----multiple end user log
+2018-04-15 15:33:38 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:33:39 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (a0d1abff-88ad-6d4b-a546-e7d199071186)] -> name: pwd]
+2018-04-15 15:33:39 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (130b323f-6dbd-334e-947a-b91e261bf423)] -> id: username]
+2018-04-15 15:33:40 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (130b323f-6dbd-334e-947a-b91e261bf423)] -> name: pwd]
+2018-04-15 15:34:15 INFO  LoginPage:46 - click on login btoonProxy element for: DefaultElementLocator 'By.id: loginButton'
+2018-04-15 15:34:15 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:34:16 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (130b323f-6dbd-334e-947a-b91e261bf423)] -> class name: logout]
+2018-04-15 15:34:22 INFO  LoginPage:46 - click on login btoonProxy element for: DefaultElementLocator 'By.id: loginButton'
+2018-04-15 15:34:22 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:34:22 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (a0d1abff-88ad-6d4b-a546-e7d199071186)] -> class name: logout]
+2018-04-15 15:34:43 INFO  LoginPage:77 - logout from the applicationProxy element for: DefaultElementLocator 'By.className: logout'
+2018-04-15 15:34:43 INFO  TC0003Multiplecredentials:49 - -----multiple end user log
+2018-04-15 15:34:43 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:34:43 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (a0d1abff-88ad-6d4b-a546-e7d199071186)] -> id: username]
+2018-04-15 15:34:44 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (a0d1abff-88ad-6d4b-a546-e7d199071186)] -> name: pwd]
+2018-04-15 15:34:44 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (a0d1abff-88ad-6d4b-a546-e7d199071186)] -> id: loginButton]
+2018-04-15 15:34:44 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:50:49 INFO  TC0003Multiplecredentials:26 - -----multiple user log
+2018-04-15 15:50:50 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:50:51 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (7d374579-be20-7743-b75b-2eea9be0adcc)] -> id: username]
+2018-04-15 15:50:51 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (7d374579-be20-7743-b75b-2eea9be0adcc)] -> name: pwd]
+2018-04-15 15:50:51 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (7d374579-be20-7743-b75b-2eea9be0adcc)] -> id: loginButton]
+2018-04-15 15:50:51 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:50:54 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (7d374579-be20-7743-b75b-2eea9be0adcc)] -> class name: logout]
+2018-04-15 15:51:08 INFO  LoginPage:77 - logout from the applicationProxy element for: DefaultElementLocator 'By.className: logout'
+2018-04-15 15:51:08 INFO  TC0003Multiplecredentials:49 - -----multiple end user log
+2018-04-15 15:51:08 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:51:08 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (7d374579-be20-7743-b75b-2eea9be0adcc)] -> id: username]
+2018-04-15 15:51:08 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (7d374579-be20-7743-b75b-2eea9be0adcc)] -> name: pwd]
+2018-04-15 15:51:09 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (7d374579-be20-7743-b75b-2eea9be0adcc)] -> id: loginButton]
+2018-04-15 15:51:09 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:51:11 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (7d374579-be20-7743-b75b-2eea9be0adcc)] -> class name: logout]
+2018-04-15 15:51:26 INFO  LoginPage:77 - logout from the applicationProxy element for: DefaultElementLocator 'By.className: logout'
+2018-04-15 15:51:26 INFO  TC0003Multiplecredentials:49 - -----multiple end user log
+2018-04-15 15:51:26 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 15:51:26 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (7d374579-be20-7743-b75b-2eea9be0adcc)] -> id: username]
+2018-04-15 15:51:26 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (7d374579-be20-7743-b75b-2eea9be0adcc)] -> name: pwd]
+2018-04-15 15:51:26 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (7d374579-be20-7743-b75b-2eea9be0adcc)] -> id: loginButton]
+2018-04-15 15:51:26 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 15:52:27 INFO  TC0003Multiplecredentials:35 - -----multiple user log
+2018-04-15 16:23:23 INFO  TC0003Multiplecredentials:26 - -----multiple user log
+2018-04-15 16:23:25 INFO  TC0003Multiplecredentials:38 - -----multiple user log
+2018-04-15 16:23:26 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (115d8050-18f5-d348-873e-ca35131a9491)] -> id: username]
+2018-04-15 16:23:26 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (115d8050-18f5-d348-873e-ca35131a9491)] -> name: pwd]
+2018-04-15 16:23:30 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (115d8050-18f5-d348-873e-ca35131a9491)] -> id: loginButton]
+2018-04-15 16:23:30 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 16:25:37 INFO  TC0003Multiplecredentials:38 - -----multiple user log
+2018-04-15 16:25:38 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (115d8050-18f5-d348-873e-ca35131a9491)] -> id: username]
+2018-04-15 16:25:38 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (115d8050-18f5-d348-873e-ca35131a9491)] -> name: pwd]
+2018-04-15 16:25:38 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (115d8050-18f5-d348-873e-ca35131a9491)] -> id: loginButton]
+2018-04-15 16:25:38 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 16:25:40 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (115d8050-18f5-d348-873e-ca35131a9491)] -> class name: logout]
+2018-04-15 16:25:54 INFO  LoginPage:78 - logout from the applicationProxy element for: DefaultElementLocator 'By.className: logout'
+2018-04-15 16:25:54 INFO  TC0003Multiplecredentials:52 - -----multiple end user log
+2018-04-15 16:25:54 INFO  TC0003Multiplecredentials:38 - -----multiple user log
+2018-04-15 16:25:55 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (115d8050-18f5-d348-873e-ca35131a9491)] -> id: username]
+2018-04-15 16:25:55 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (115d8050-18f5-d348-873e-ca35131a9491)] -> name: pwd]
+2018-04-15 16:25:55 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (115d8050-18f5-d348-873e-ca35131a9491)] -> id: loginButton]
+2018-04-15 16:25:55 INFO  LoginPage:61 - ==logout button is check
+2018-04-15 16:25:58 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (115d8050-18f5-d348-873e-ca35131a9491)] -> class name: logout]
+2018-04-15 16:26:12 INFO  LoginPage:78 - logout from the applicationProxy element for: DefaultElementLocator 'By.className: logout'
+2018-04-15 16:26:12 INFO  TC0003Multiplecredentials:52 - -----multiple end user log
+2018-04-15 16:26:12 INFO  TC0003Multiplecredentials:38 - -----multiple user log
+2018-04-15 16:26:12 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (115d8050-18f5-d348-873e-ca35131a9491)] -> id: username]
+2018-04-15 16:26:12 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (115d8050-18f5-d348-873e-ca35131a9491)] -> name: pwd]
+2018-04-15 16:26:13 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (115d8050-18f5-d348-873e-ca35131a9491)] -> id: loginButton]
+2018-04-15 16:26:13 INFO  LoginPage:61 - ==logout button is check
+2018-04-16 16:15:52 INFO  TC0003Multiplecredentials:26 - -----multiple user log
+2018-04-16 16:15:54 INFO  TC0003Multiplecredentials:38 - -----multiple user log
+2018-04-16 16:15:54 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (888c2c3c-cf8a-b94f-8a3b-66be763eb95b)] -> id: username]
+2018-04-16 16:15:54 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (888c2c3c-cf8a-b94f-8a3b-66be763eb95b)] -> name: pwd]
+2018-04-16 16:15:54 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (888c2c3c-cf8a-b94f-8a3b-66be763eb95b)] -> id: loginButton]
+2018-04-16 16:15:55 INFO  LoginPage:61 - ==logout button is check
+2018-04-16 16:18:08 INFO  TC0003Multiplecredentials:38 - -----multiple user log
+2018-04-16 16:18:29 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (888c2c3c-cf8a-b94f-8a3b-66be763eb95b)] -> id: username]
+2018-04-16 16:18:39 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (888c2c3c-cf8a-b94f-8a3b-66be763eb95b)] -> name: pwd]
+2018-04-16 16:18:41 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (888c2c3c-cf8a-b94f-8a3b-66be763eb95b)] -> id: loginButton]
+2018-04-16 16:18:46 INFO  LoginPage:61 - ==logout button is check
+2018-04-16 16:19:01 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (888c2c3c-cf8a-b94f-8a3b-66be763eb95b)] -> class name: logout]
+2018-04-16 16:19:51 INFO  LoginPage:78 - logout from the applicationProxy element for: DefaultElementLocator 'By.className: logout'
+2018-04-16 16:19:51 INFO  TC0003Multiplecredentials:52 - -----multiple end user log
+2018-04-16 16:19:51 INFO  TC0003Multiplecredentials:38 - -----multiple user log
+2018-04-16 16:19:55 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (888c2c3c-cf8a-b94f-8a3b-66be763eb95b)] -> id: username]
+2018-04-16 16:19:55 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (888c2c3c-cf8a-b94f-8a3b-66be763eb95b)] -> name: pwd]
+2018-04-16 16:19:57 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (888c2c3c-cf8a-b94f-8a3b-66be763eb95b)] -> id: loginButton]
+2018-04-16 16:20:04 INFO  LoginPage:61 - ==logout button is check
+2018-04-16 16:20:08 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (888c2c3c-cf8a-b94f-8a3b-66be763eb95b)] -> class name: logout]
+2018-04-16 16:20:44 INFO  TC0003Multiplecredentials:38 - -----multiple user log
+2018-04-16 16:41:38 INFO  TC0003Multiplecredentials:27 - -----multiple user log
+2018-04-16 16:41:41 INFO  TC0003Multiplecredentials:39 - -----multiple user log
+2018-04-16 16:41:41 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (bea45be8-d3bd-a54f-8baa-71eb1dec34fe)] -> id: username]
+2018-04-16 16:41:42 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (bea45be8-d3bd-a54f-8baa-71eb1dec34fe)] -> name: pwd]
+2018-04-16 16:41:42 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (bea45be8-d3bd-a54f-8baa-71eb1dec34fe)] -> id: loginButton]
+2018-04-16 16:41:42 INFO  LoginPage:61 - ==logout button is check
+2018-04-16 16:43:59 INFO  TC0003Multiplecredentials:39 - -----multiple user log
+2018-04-16 16:44:06 INFO  LoginPage:41 - username provided[[FirefoxDriver: firefox on MAC (bea45be8-d3bd-a54f-8baa-71eb1dec34fe)] -> id: username]
+2018-04-16 16:44:06 INFO  LoginPage:44 - password provided[[FirefoxDriver: firefox on MAC (bea45be8-d3bd-a54f-8baa-71eb1dec34fe)] -> name: pwd]
+2018-04-16 16:44:07 INFO  LoginPage:46 - click on login btoon[[FirefoxDriver: firefox on MAC (bea45be8-d3bd-a54f-8baa-71eb1dec34fe)] -> id: loginButton]
+2018-04-16 16:44:10 INFO  LoginPage:61 - ==logout button is check
+2018-04-16 16:44:25 INFO  LoginPage:65 - ==logout button is true[[FirefoxDriver: firefox on MAC (bea45be8-d3bd-a54f-8baa-71eb1dec34fe)] -> xpath: //a[@id='logoutLink']]
+2018-04-16 16:45:01 INFO  LoginPage:78 - logout from the applicationProxy element for: DefaultElementLocator 'By.xpath: //a[@id='logoutLink']'
+2018-04-16 16:45:01 INFO  TC0003Multiplecredentials:53 - -----multiple end user log
